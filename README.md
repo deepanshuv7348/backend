@@ -13,7 +13,7 @@ This is a Node.js project using Sequelize ORM to connect to a PostgreSQL databas
 1. *Clone the Repository*
    
    ```bash
-   git clone https://github.com/deepanshuv7348/Backend_task.git
+   git clone https://github.com/deepanshuv7348/backend.git
    cd your-repository
 
 2. Setup data base self 
